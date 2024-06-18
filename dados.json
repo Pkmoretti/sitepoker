@@ -1,0 +1,14 @@
+{
+    "jogadores": [
+        {"posicao": 1, "nome": "Vitor", "jogos": 5 , "pontos": 4650},
+        {"posicao": 2, "nome": "Lucão", "jogos": 5 , "pontos": 4550},
+        {"posicao": 3, "nome": "Serginho", "jogos": 5 , "pontos": 4350},
+        {"posicao": 4, "nome": "Murilo Zanchetta", "jogos": 5 , "pontos": 4200},
+        {"posicao": 5, "nome": "Guilherme", "jogos": 4 , "pontos": 3850},
+        {"posicao": 6, "nome": "Pedro", "jogos": 4 , "pontos": 3850},
+        {"posicao": 7, "nome": "Davi", "jogos": 5 , "pontos": 3550},
+        {"posicao": 8, "nome": "Pablo", "jogos": 4 , "pontos": 2900},
+        {"posicao": 9, "nome": "Murilo Costa", "jogos": 3 , "pontos": 2500},
+        {"posicao": 10, "nome": "Orlando", "jogos": 0 , "pontos": 0}
+    ]
+}
